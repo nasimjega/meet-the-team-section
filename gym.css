@@ -69,7 +69,7 @@ main{
 }
 .first{
     background-color: #F3F4F6;
-    background-image: url("/Tools/resources/Background_decor@2x.png");
+    background-image: url("Tools/resources/Background_decor@2x.png");
     background-repeat: no-repeat;
     background-position: top left;
     background-size:auto;
@@ -80,7 +80,7 @@ main{
 }
 .second{
      background-color: #C1B6F8; 
-     background-image: url('../Tools/resources/Gradient.svg');
+     background-image: url('Tools/resources/Gradient.svg');
     background-size: contain; 
     background-repeat: no-repeat;
     background-position: bottom;
