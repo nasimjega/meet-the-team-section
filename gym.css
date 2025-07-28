@@ -94,21 +94,21 @@ main{
 }
 .fourth{
     background-color: #9DC4F8;
-     background-image: url(Tools/resources/Gradient@2x.png);
+     background-image: url('../Tools/resources/Gradient@2x.png');
     background-size: contain; 
     background-repeat: no-repeat;
     background-position: bottom; 
 }
 .fifth{
     background-color: #F8D8B0;
-     background-image: url(Tools/resources/Gradient@2x.png);
+     background-image: url('../Tools/resources/Gradient@2x.png');
     background-size: contain; 
     background-repeat: no-repeat;
     background-position: bottom; 
 }
 .sixth{
     background-color: #86E7D4;
-     background-image: url(Tools/resources/Gradient@2x.png);
+     background-image: url('../Tools/resources/Gradient@2x.png');
     background-size: contain; 
     background-repeat: no-repeat;
     background-position: bottom; 
